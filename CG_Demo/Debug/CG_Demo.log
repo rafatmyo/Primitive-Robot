@@ -1,5 +1,15 @@
-﻿  calf.cpp
+﻿  union.cpp
+  thigh.cpp
+  knee.cpp
+  cFoot.cpp
+  CG_Demo.cpp
+c:\users\tempadmin\documents\escuela\9 semestre\gráficas computacionales\primitive-robot\cg_demo\source\cg_demo.cpp(42): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\tempadmin\documents\escuela\9 semestre\gráficas computacionales\primitive-robot\cg_demo\source\cg_demo.cpp(198): warning C4305: '+=': truncation from 'double' to 'float'
+  Leg.cpp
+  head.cpp
+  Gun.cpp
+  calf.cpp
   Ankle.cpp
   Generating Code...
-  CG_Demo.vcxproj -> C:\Users\Tempadmin\Documents\Escuela\9 Semestre\Gráficas computacionales\Robot\Debug\CG_Demo.exe
-  CG_Demo.vcxproj -> C:\Users\Tempadmin\Documents\Escuela\9 Semestre\Gráficas computacionales\Robot\Debug\CG_Demo.pdb (Full PDB)
+  CG_Demo.vcxproj -> C:\Users\Tempadmin\Documents\Escuela\9 Semestre\Gráficas computacionales\Primitive-Robot\Debug\CG_Demo.exe
+  CG_Demo.vcxproj -> C:\Users\Tempadmin\Documents\Escuela\9 Semestre\Gráficas computacionales\Primitive-Robot\Debug\CG_Demo.pdb (Full PDB)
